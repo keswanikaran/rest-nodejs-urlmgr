@@ -5,7 +5,7 @@ rest-nodejs-urlmgr
 
 Built with the Node.js and the [Express framework](http://expressjs.com/).
 
-The client application is available in [this repository](https://github.com/)
+The client application is available in [this repository](https://github.com/keswanikaran/BB-url-manager.git)
 
 ## Setting Up ##
 
